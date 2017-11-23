@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LocalBusV2</string>
+    <string name="titleTextView">TextView</string>
+    <string name="localbus">LocalBus</string>
+    <string name="log_out">Log Out</string>
+    <string name="revoke">revoke</string>
+    <string name="idTextView">TextView</string>
+    <string name="emailTextView">TextView</string>
+    <string name="nameTextView">TextView</string>
+    <string name="foto">Foto</string>
+    <string name="local_map">Local Map</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
